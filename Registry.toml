@@ -4,4 +4,5 @@ repo = "https://github.com/Gnimuc/Registry.git"
 description = "Private registry for hosting Julia packages"
 
 [packages]
+b3ab79b8-e9c3-58f4-8807-ca498ff40268 = { name = "Carotid_jll", path = "jll/C/Carotid_jll" }
 be603bd5-5dae-4069-a58d-4d5400f288ac = { name = "Ecorche", path = "E/Ecorche" }
