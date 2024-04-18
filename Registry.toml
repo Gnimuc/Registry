@@ -4,3 +4,4 @@ repo = "https://github.com/Gnimuc/Registry.git"
 description = "Private registry for hosting Julia packages"
 
 [packages]
+be603bd5-5dae-4069-a58d-4d5400f288ac = { name = "Ecorche", path = "E/Ecorche" }
