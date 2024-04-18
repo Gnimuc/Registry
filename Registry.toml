@@ -1,0 +1,6 @@
+name = "Registry"
+uuid = "09c0b560-dca0-454b-9220-ce3dce325485"
+repo = "https://github.com/Gnimuc/Registry.git"
+description = "Private registry for hosting Julia packages"
+
+[packages]
